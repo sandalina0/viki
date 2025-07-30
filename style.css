@@ -1,0 +1,55 @@
+*{
+    width: auto;
+    height: auto;
+    background-color: #4c2f27;
+    color:#7851a9;
+    font-family: Bradley Hand, cursive;
+}
+
+.t{
+    height: 450px;
+}
+
+.night{
+    height: 400px;
+    width: 150px;
+}
+
+.hallo{
+    color:#7851a9;
+}
+
+.nav{
+    color: #998e91;
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    background-color: #242424;
+}
+
+.i1:hover{
+    border-radius: 10px;
+    transition: 1s;
+    transform: scale(1.1);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.float{
+    border-right: solid;
+    float: right;
+}
+
+.carousel{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+.col-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
